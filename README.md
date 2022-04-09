@@ -1,2 +1,2 @@
 # python_demos
-Python demo projects
+just some Python demo projects
